@@ -75,7 +75,7 @@ int main(){
                 printf("\nlista de produtos\n");
                 for(i = 0; i < 10; i++){
                     if(idproduto[i] != -1){
-                        printf("posicao %d -> %d\n", i=1, idproduto[i]);
+                        printf("posicao %d -> %d\n", i+1, idproduto[i]);
                     }
                 }
             break;
